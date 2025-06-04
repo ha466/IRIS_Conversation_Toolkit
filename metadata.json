@@ -1,0 +1,5 @@
+{
+  "name": "IRIS Conversation Generator",
+  "description": "A web application to generate a dataset of 200 unique, multi-turn conversations with IRIS, an anime-inspired AI assistant. Conversations cover various themes and showcase IRIS's distinct personality.",
+  "requestFramePermissions": []
+}
