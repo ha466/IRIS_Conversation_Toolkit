@@ -26,6 +26,7 @@ But wait! You can totally customize the AI's personality in the **Settings** pag
 * **Pick Fun Themes**: Choose from 19 different conversation topics 📝
 * **Export to JSON**: Download your conversations for whatever you need 💾
 * **Pretty UI**: Enjoy our anime-inspired cozy library design 📚✨
+  ![App Screenshot](/assets/1.jpg)
 
 ## 🛠️ Built With
 
